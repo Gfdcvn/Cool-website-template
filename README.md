@@ -11,7 +11,7 @@ you may use this website only if you give me credit in your website, thank you.
 💥make sure to report any bug under the "Issues" bar!
 
 # Deploy to replit
-[![Run on Repl.it](https://repl.it/badge/github/Gfdcvn/discord-js-bot-template)](https://repl.it/github/Gfdcvn/Cool-website-template)
+[![Run on Repl.it](https://repl.it/badge/github/Gfdcvn/discord-js-bot-template)](https://github.com/Gfdcvn/Cool-website-template.git)
 
 ©2021 Richard cool(rbgrm)
 
